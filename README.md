@@ -18,9 +18,6 @@ I build tools that eliminate manual work, scripts that process data at scale, an
 
 ## 📌 Featured Projects
 
-### [VIP Test & Control Group Split](https://github.com/elopez567/VIP_Test_Control_Group_Split)
-Python notebook for generating randomized 50/50 test/control splits for VIP player experimentation. Built to support A/B testing of the VIP Game Zone at FanDuel.
-
 ### [StratCreator](https://github.com/elopez567/StratCreator)
 A Tkinter GUI application that automates the full collateral stratification process for loan pool analysis. Accepts structured input files and generates detailed strat tables with weighted average characteristics — cutting a manual hours-long process down to seconds.
 
